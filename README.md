@@ -6,4 +6,4 @@
 
 ### Used JavaScript to compare two different BMI using if/else statement, functions, and ternary operator.
 
-### Used JavaScript to a temperature convertor using JS functions.
+### Used JavaScript to a temperature converter using JS functions.
